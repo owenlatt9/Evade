@@ -18,7 +18,7 @@ A survival game where you dodge bouncing balls for as long as possible.
 
 ## Play
 
-**Web version:** [Play Evade](https://owenlatt9.github.io/evade)
+**Web version:** [Play Evade](https://owenlatt9.github.io/game.html)
 
 **Python version:** Requires Python 3 with tkinter
 ```bash
